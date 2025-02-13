@@ -1,0 +1,5 @@
+defaultProject: gcp-prod-edp-sa-cvo
+defaultLocation: asia-northeast3
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
