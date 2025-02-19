@@ -7,3 +7,5 @@ UNION ALL
 SELECT 5 AS number
 UNION ALL 
 SELECT 3 AS number
+UNION ALL 
+SELECT 7 AS number
